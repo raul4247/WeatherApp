@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+
+    <string name="lisbon_city_name">Lisbon</string>
+    <string name="madrid_city_name">Madrid</string>
+    <string name="paris_city_name">Paris</string>
+    <string name="berlin_city_name">Berlin</string>
+    <string name="copenhagen_city_name">Copenhagen</string>
+    <string name="rome_city_name">Rome</string>
+    <string name="london_city_name">London</string>
+    <string name="dublin_city_name">Dublin</string>
+    <string name="prague_city_name">Prague</string>
+    <string name="vienna_city_name">Vienna</string>
 </resources>
